@@ -1,4 +1,8 @@
 # Explainable-seismic-classification
+
+##Overview
+This repository focuses on seismic signal classification using Convolutional Neural Networks (CNNs) for identifying earthquake, micro-earthquake, rockfall, and noise events. The project includes pre-trained CNN models in the model folder, datasets for testing classification performance in the data folder, and Jupyter Notebooks demonstrating classification results and Layer-wise Relevance Propagation (LRP) examples in the example folder.
+
 ## Model
 The model folder contains pre-trained CNN models ready for use. These models can be loaded and employed for classification tasks without the need for extensive training.
 
