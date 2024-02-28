@@ -11,4 +11,4 @@ The data folder includes datasets that can be used to assess the performance of 
 
 ## Example
 The example folder provides Jupyter Notebook (ipynb) files that showcase the classification results and offer examples of Layer-wise Relevance Propagation (LRP). 
-These notebooks are designed to help users understand how to use the pre-trained models and generate LRP maps.
+These notebooks are designed to show users how to use the pre-trained models and generate LRP maps.
